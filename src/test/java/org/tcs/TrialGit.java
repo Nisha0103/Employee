@@ -26,13 +26,13 @@ public void test4() {
 
 }
 
-public void test5() {
-	System.out.println("test5");
+public void test22() {
+	System.out.println("test22");
 	
 }
 
-public void test6() {
-	System.out.println("test6");
+public void test21() {
+	System.out.println("test21");
 
 }
 }
