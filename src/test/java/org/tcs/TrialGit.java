@@ -19,19 +19,19 @@ public class TrialGit {
 
 	}
 
-public void test4() {
+public void test31() {
 	System.out.println("test4");
 
 	
 
 }
 
-public void test5() {
+public void test32() {
 	System.out.println("test5");
 	
 }
 
-public void test6() {
+public void test33() {
 	System.out.println("test6");
 
 }
